@@ -1,3 +1,10 @@
-Leche
-Huevos
-Carne
+Comida
+-------
+- Leche
+- Huevos
+- Carne
+
+Aseo
+-------
+- Jabón de Loza
+- Shampoo
